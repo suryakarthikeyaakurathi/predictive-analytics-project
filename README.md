@@ -37,3 +37,6 @@ This project uses Machine Learning and historical sales data to forecast future 
 - Power BI dashboard
 - Dashboard screenshots
 - Project report
+
+## Dashboard preview
+<img width="1165" height="657" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/719037f6-f5f3-4a5e-a150-bca979e00578" />
